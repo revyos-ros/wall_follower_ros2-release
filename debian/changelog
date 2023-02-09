@@ -1,0 +1,8 @@
+ros-humble-wall-follower-ros2 (0.0.1-1bullseye) bullseye; urgency=high
+
+  * Add initial version with logical behavoir depending upon 5 zones around the robot
+  * Contributors: Roberto Zegers
+
+ -- Roberto Zegers <user@todo.todo>  Thu, 09 Feb 2023 00:00:00 -0000
+
+
